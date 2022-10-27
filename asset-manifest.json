@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mali/static/css/main.073c9b0a.css",
+    "main.js": "/mali/static/js/main.ca5b13bb.js",
+    "static/js/787.2a374e58.chunk.js": "/mali/static/js/787.2a374e58.chunk.js",
+    "index.html": "/mali/index.html",
+    "main.073c9b0a.css.map": "/mali/static/css/main.073c9b0a.css.map",
+    "main.ca5b13bb.js.map": "/mali/static/js/main.ca5b13bb.js.map",
+    "787.2a374e58.chunk.js.map": "/mali/static/js/787.2a374e58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ca5b13bb.js"
+  ]
+}
